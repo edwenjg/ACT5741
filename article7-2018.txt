@@ -1,0 +1,109 @@
+Nio helps Los Altos startup score $30M for race to develop 'eyes' for cars
+ Email Share Share Tweet
+ Print Order Reprints
+Los Altos-based Innovusion has raised a $30 million Series A round to help develop its version of lidar, a laser-based guidance technology for vehicles. One of its units is shown here mounted on a test van.
+Enlarge
+Los Altos-based Innovusion has raised a $30 million Series A round to help develop its version of lidar, a laser-based guidance technology for vehicles. One of its units is shown here mounted on a test van.
+COURTESY PHOTO
+
+IN THIS ARTICLE
+Transportation
+Industry
+Automotive
+Topic
+Startups
+Topic
+Tesla Inc.
+Company
+Velodyne Lidar
+Company
+Ian Zhu
+Person
+Junwei Bao
+Person
+More
+
+
+By Cromwell Schubarth  –  TechFlash Editor, Silicon Valley Business Journal
+Oct 25, 2018 Updated Oct 27, 2018, 9:30am PDT
+Nio Capital, the investment arm of the Chinese electric car company whose U.S. headquarters is in San Jose, co-led a big round of funding for a Los Altos startup that's developing lidar sensors to help vehicles see what is around them.
+
+The $30 million raised in the Series A funding will be used by Innovusion Inc. to help it roll out its version of laser-based guidance (lidar) called Cheetah. The company says its lidar can detect objects that are more than 200 yards away and in much greater detail than its competitors' sensors.
+
+CREATE YOUR FREE ACCOUNT
+BECOME A MEMBER
+
+Join the Silicon Valley Business Journal to unlock even more insights!
+
+
+Innovusion is led by co-founder and CEO Junwei Bao, who previously led autonomous vehicle sensor development at Chinese tech giant Baidu Inc. (NASDAQ:BIDU). The startup was founded in 2016 and employs about 50 people, mostly working on development at its Silicon Valley headquarters.
+
+Innovusion CEO previously led vehicle sensors development for Chinese tech giant Baidu.
+Enlarge
+Innovusion CEO previously led vehicle sensors development for Chinese tech giant Baidu.
+COURTESY PHOTO
+
+“This round of funding will allow us to expand our R&D team and manufacturing facilities to more quickly develop, market and deliver Innovusion Cheetah lidar to customers around the world, helping drive innovative perception solutions in autonomous vehicles,” Bao said in the funding announcement.
+
+Crunchbase earlier this month reported that more than $500 million has been invested in startups that are working on lidar since 2011.
+
+San Jose-based Velodyne Lidar Inc. raised about $150 million of that in a huge Series A round two years ago from Ford Motor Co. (NYSE:F) and Baidu.
+
+A Mountain View-based startup called Aeva, led by former engineers at Apple Inc., came out of stealth with $45 million in funding to show off what it's calling 4D Lidar.
+
+Lidar is one of three primary technologies being developed as the eyes of autonomous vehicles. It is considered to be better at sensing shapes in more detail than radar and it also senses depth better than cameras are able to. But it is more expensive than those two technologies, only recently coming down from hundreds of thousands of dollars per unit to a few thousand dollars each.
+
+Innovusion says its lidar sensors can "see" more than 200 yards ahead and in much greater detail than its competitors' technologies.
+Enlarge
+Innovusion says its lidar sensors can "see" more than 200 yards ahead and in much greater detail than its competitors' technologies.
+COURTESY PHOTO
+
+
+RECOMMENDED
+
+RESIDENTIAL REAL ESTATE
+Model Group buys downtown Cincinnati building for apartment conversion
+
+COMMERCIAL REAL ESTATE
+Work starts for Ruth's Chris Steak House on Wolf Road
+
+RESIDENTIAL REAL ESTATE
+Waterfront mansion sale sets high mark for Kirkland
+
+
+
+As well as being cheaper, radar is better at long range and can see through bad weather conditions. The advantage of cameras is their ability to "read" sign text or lane markings, but they can have problems in weather conditions that obscure their vision.
+
+The Autopilot used in cars made by Tesla Inc. (NASDAQ:TSLA) use a combination of cameras and lidar to help them safely navigate the road. Founder Elon Musk has argued that lidar is too expensive and bulky for his cars.
+
+“In my view, it’s a crutch that will drive companies to a local maximum that they will find very hard to get out of,” Musk said earlier this year. “Perhaps I am wrong, and I will look like a fool. But I am quite certain that I am not.”
+
+Nio (NYSE:NIO) is using lidar in its autonomous test vehicles. Ian Zhu, managing partner at the carmaker's venture arm, argues that type of guidance sensors will be a key component for driverless vehicles.
+
+“When looking at the robo-taxi market and the amount of testing needed, we see a strong immediate need for high performance lidar sensors," he said. "As for the original equipment manufacturer (OEM) market, we see automakers putting more and more efforts on testing and integrating sensors for autonomous driving with more strict requirements related to cost, auto-gradability as well as performance. We strongly believe Innovusion will lead and greatly benefit from these booming markets.”
+
+In addition to Nio Capital, Innovusion's funding was co-led by another Chinese investor, Eight Roads Ventures, and was joined by F-Prime Capital — a U.S. venture firm affiliated with mutual fund giant Fidelity Investments.
+
+BUSINESS PULSE POLL
+What futuristic car feature are you least optimistic about?
+
+Fully autonomous driving
+Integrated artificial intelligence
+Augmented reality window displays
+Biometric access and controls
+Modular/reconfigurable vehicles
+Built-in vehicle tracking
+Remote control/shutdown
+Vote
+This poll is not a scientific sampling. It offers a quick view of what readers are thinking.
+
+The List
+Largest VC Deals Q3 2018 in Silicon Valley
+Ranked by Deal value
+Rank	Transaction	Deal Value
+1
+Lucid Motors -	$1.00 billion
+2
+Zoox -	$500.00 million
+3
+23andMe -	$300.00 million
