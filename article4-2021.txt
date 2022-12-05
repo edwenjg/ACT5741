@@ -1,0 +1,32 @@
+NIO temporarily suspends production due to semiconductor shortage
+Avatar for Scooter Doll
+Scooter Doll
+ | Mar 26 2021 — 12:54 pm PT
+NIO semiconductor shortage
+Chinese EV manufacturer NIO announced it will halt production at its JAC-NIO facility for five working days. The facility in Hefei, the capital of the Anhui Province, will suspend vehicle production beginning Monday, March 29. NIO has now become the next victim of a continuing global semiconductor shortage.
+
+Despite the global pandemic, ($NIO) was on a roll in 2020. Earlier this month, the automaker revealed its Q4 results for 2020. They were highlighted by 17,353 EV deliveries compared to 8,224 in Q4 of 2019. In 2020, NIO delivered 43,728 EVs compared to 20,565 a year prior.
+
+
+In today’s press release, however, NIO revealed the supply constraint of semiconductors has impacted the automaker’s production volume this month. It now expects to deliver approximately 19,500 vehicles this quarter, down from its previous outlook of 20,000 to 20,500.
+
+The plant halting production next week is the JAC-NIO plant. It is a joint venture between NIO and JAC Motors, a State-run automaker and NIO’s contract manufacturer. In fact, all of NIO’s current models are produced by JAC. This is because NIO does not have its own manufacturing license from the Chinese government.
+
+As recent as January, JAC Motors was reportedly soliciting bids from contractors for a second joint manufacturing base to keep up with NIO’s growing demand. It is unclear if or how much the current semiconductor shortage could stymie these plans for NIO. For right now, a five-day halt only affects this quarter’s production goals.
+
+NIO semiconductor shortage
+Assembly line at NIO’s Hefei plant
+The semiconductor shortage caught up with NIO
+The current state of semiconductor manufacturing is a case of supply and demand. In this particular situation, the global demand exceeds the available supply. The COVID-19 pandemic caused a surge in chip orders needed for smartphones, TVs, and computers, particularly as people stuck in lockdown attempted to make work from home (and life in general) easier.
+
+A larger than expected demand for vehicles surged in 2020, but semiconductor manufacturers had already moved on to orders for other electronic devices. That left them unable to meet the demands of automakers scrambling to catch up.
+
+
+NIO is not alone in its production frustrations around semiconductor shortages either. Many well-known automakers have previously halted certain production lines in their factories, too. This includes GM, Ford Motors, Nissan, Toyota, Volkswagen, Suburu, and Fiat Chrysler. That being said, NIO is the first substantial automaker in China to stumble at the hands of the semiconductor shortage.
+
+Electrek‘s take
+It’s certainly a bummer that NIO has to shut its doors amongst significant growth in 2020, even if it only ends up being for five days. That may not seem like very long, but you can see how much it is already hurting the company’s anticipated output for the quarter.
+
+One bad quarter isn’t a death sentence, but this news comes just a year after the Chinese government boosted NIO from the brink of bankruptcy. Due to the chip shortage, NIO will have to continue to produce EVs at a capacity significantly lower than its facilities can handle, which will hurt its bottom line.
+
+Hopefully, the five-day sabbatical will give NIO time to recoup and acquire some more precious semiconductors. They will have some catching up to do the rest of 2021.
